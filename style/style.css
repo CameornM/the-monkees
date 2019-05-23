@@ -20,7 +20,7 @@ body {
 
 .callout-container {
     height: 90vh;
-    background: url(/assets/images/monkees.jpg) no-repeat center center fixed;
+    background: no-repeat center center fixed cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -29,15 +29,15 @@ body {
     justify-content: center;
     position: relative;
     transform: translateY(48px);
-    margin-bottom: 25px;
+    margin-bottom: 0px;
 }
 
 .container-fluid {
-    width: 100%;
     padding-right: 0px;
     padding-left: 0;
     margin-right: auto;
     margin-left: auto;
+    width: 100%;
 }
 
 
