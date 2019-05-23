@@ -48,17 +48,20 @@ body {
     height: 80px;
     z-index: 1;
     margin: 0;
-    position: fixed;
     left: 0;
     bottom: 0;
 }
 
+.contact-footer {
+    position: fixed;
+}
 
 .social-links {
     padding-bottom: 0px;
     padding-top: 26px;
-    margin-bottom: 16px;
     text-align: center;
+    margin: 0 0;
+
 }
 
 .social-links li a i {
@@ -101,12 +104,29 @@ body {
     font-weight: bold;
 }
 
+.bandmember-picture {
+    border-radius: 50%;
+    height: 150px;
+    width: 190px;
+    margin-bottom: 12px;
+}
+
+.member-name {
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 0px;
+}
+
 .members-container {
     padding-top: 80px;
 }
 
+.member-text {
+    font-size: 14px;
+}
+
 .media-body {
-    padding-top: 40px;
+    padding-top: 10px;
     font-family: 'Nunito', sans-serif;
     padding-bottom: 10px;
 }
@@ -121,6 +141,7 @@ body {
 .container-wrapper--yellow {
     background-color: #172447;
     color: #F3DD39;
+    padding-bottom: 60px;
 }
 
 .block-divider-songs {
@@ -155,13 +176,16 @@ video {
     margin: 0 0;
 }
 
+.carousel-item {
+    height: 240px;
+    width: 200px;
+}
 /*---------------- Contact Us */
 
 .center-form {
     padding-top: 8px;
     margin: 0 auto;
     max-width: 70%;
- 
 }
 
 .contact-heading {
@@ -169,17 +193,18 @@ video {
     font-weight: bold;
     padding-top: 100px;
     padding-bottom: 16px;
- 
-    
+
+
 }
 
 .contact-subheading {
     text-align: center;
-    font-weight: 500;
- 
+    font-weight: 400;
+
 }
 
 .btn-submit {
     margin-top: 12px;
+    margin-bottom: 120px;
 }
 
