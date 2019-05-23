@@ -26,6 +26,7 @@ I like the subtle change and transition on the buttons on the footer, allowing a
 For the future, I'd want to improve on the carousel to make sure it was working fluently, to do this I'd make sure the images were all compatible with one another so there wasnt as much jumping, and overall the image would look better rather than having size changes. I had to move this to the side as for the images I had it wasn't a good way to 
 present it 
 
+Had problems with the Image on the title page and it not covering / staying a fixed size.
 ## Content
 
 All sections on "The Monkees" was written by me.
